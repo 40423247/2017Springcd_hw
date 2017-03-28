@@ -39,9 +39,6 @@
 <v t="yen.20170120110024.9" a="E"><vh>week1</vh>
 <v t="yen.20170120110024.10"><vh>w1</vh></v>
 </v>
-<v t="leo.20170329031353.1" a="E"><vh>week2</vh>
-<v t="leo.20170329031353.2"><vh>w2</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -81,25 +78,6 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
-<t tx="leo.20170329031353.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170329031353.2"># week1
-
-&lt;/small&gt;
-
-olveSpace繪製並了解四連桿機構
-&lt;iframe src="https://player.vimeo.com/video/210482889" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;small&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/209486918"&gt;四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
