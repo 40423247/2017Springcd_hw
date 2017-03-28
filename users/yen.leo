@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -36,19 +36,11 @@
 <v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
-<v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
+<v t="yen.20170120110024.9" a="E"><vh>week1</vh>
+<v t="yen.20170120110024.10"><vh>w1</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
-</v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
-</v>
+<v t="leo.20170329031353.1" a="E"><vh>week2</vh>
+<v t="leo.20170329031353.2"><vh>w2</vh></v>
 </v>
 </v>
 </v>
@@ -89,6 +81,25 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170329031353.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170329031353.2"># week1
+
+&lt;/small&gt;
+
+olveSpace繪製並了解四連桿機構
+&lt;iframe src="https://player.vimeo.com/video/210482889" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;small&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209486918"&gt;四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -242,90 +253,16 @@ make.start()</t>
 @others
 
 </t>
-<t tx="yen.20170120110024.10"># 投影片快捷鍵
+<t tx="yen.20170120110024.10"># week1
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+&lt;/small&gt;
 
-</t>
-<t tx="yen.20170120110024.11">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170120110024.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+處理stunnel.conf的IP設定
+&lt;iframe src="https://player.vimeo.com/video/209486918" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;small&gt;
 
+&lt;p&gt;&lt;a href="https://vimeo.com/209486918"&gt;四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-
-						
-</t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
@@ -419,7 +356,7 @@ make.start()
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40423247](https://40423247.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
 
 [協同產品設計實習課程網誌](blog/index.html)
