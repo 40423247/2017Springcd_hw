@@ -42,6 +42,17 @@
 <v t="leo.20170329214509.1" a="E"><vh>week2</vh>
 <v t="leo.20170329214509.2"><vh>w2</vh></v>
 </v>
+<v t="leo.20170329233804.1" a="E"><vh>week3</vh>
+<v t="leo.20170329233804.2" a="E"><vh>w3</vh>
+<v t="leo.20170329233804.3"><vh>week3-1</vh></v>
+</v>
+<v t="leo.20170329233804.4" a="E"><vh>w3</vh>
+<v t="leo.20170329233804.5"><vh>week3-2</vh></v>
+</v>
+<v t="leo.20170329234300.1" a="E"><vh>w3</vh>
+<v t="leo.20170329234300.2"><vh>week3-3</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -90,12 +101,72 @@
 
 						
 </t>
-<t tx="leo.20170329214509.2">## week2
+<t tx="leo.20170329214509.2">## Week2
 &lt;/small&gt;
 利用Solvespace畫出簡單的四連桿機構, 觀察該機構的運動方式
 &lt;iframe src="https://player.vimeo.com/video/210482889" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;small&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/210482889"&gt;四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170329233804.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170329233804.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329233804.3">### Week3 繪製四連桿組件-1(30mm)
+&lt;/small&gt;
+利用Onshape畫出簡單的四連桿機構, 觀察該機構的運動方式
+&lt;iframe src="https://player.vimeo.com/video/210611056" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;small&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210611056"&gt;四連桿組件-1(30mm)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170329233804.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329233804.5">### Week3 繪製四連桿組件-2(60mm)
+&lt;/small&gt;
+利用Onshape畫出簡單的四連桿機構, 觀察該機構的運動方式
+&lt;iframe src="https://player.vimeo.com/video/210615725" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;small&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210615725"&gt;四連桿組件-2(60mm)&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170329234300.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329234300.2">### Week3 繪製四連桿組件-3(組合)
+&lt;/small&gt;
+利用Onshape畫出簡單的四連桿機構, 觀察該機構的運動方式
+&lt;iframe src="https://player.vimeo.com/video/210619860" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;small&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210619860"&gt;四連桿組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 <t tx="yen.20170108171605.1"></t>
@@ -251,7 +322,7 @@ make.start()</t>
 @others
 
 </t>
-<t tx="yen.20170120110024.10">## week1
+<t tx="yen.20170120110024.10">## Week1
 &lt;/small&gt;
 處理stunnel.conf的IP設定
 &lt;iframe src="https://player.vimeo.com/video/209486918" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
