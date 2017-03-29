@@ -92,7 +92,7 @@
 </t>
 <t tx="leo.20170329214509.2">## week2
 &lt;/small&gt;
-處理stunnel.conf的IP設定
+利用Solvespace畫出簡單的四連桿機構, 觀察該機構的運動方式
 &lt;iframe src="https://player.vimeo.com/video/210482889" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;small&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/210482889"&gt;四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
