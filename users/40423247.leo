@@ -53,12 +53,15 @@
 <v t="leo.20170329234300.2"><vh>week3-3</vh></v>
 </v>
 </v>
-<v t="leo.20170330030017.1" a="E"><vh>week4</vh>
-<v t="leo.20170330030017.2" a="E"><vh>w4</vh>
+<v t="leo.20170330030017.1"><vh>week4</vh>
+<v t="leo.20170330030017.2"><vh>w4</vh>
 <v t="leo.20170330030017.3"><vh>week4-1</vh></v>
 </v>
-<v t="leo.20170330030017.4" a="E"><vh>w4</vh>
+<v t="leo.20170330030017.4"><vh>w4</vh>
 <v t="leo.20170330030017.5"><vh>week4-2</vh></v>
+</v>
+<v t="leo.20170330035313.1"><vh>w4</vh>
+<v t="leo.20170330035313.2"><vh>week4-3</vh></v>
 </v>
 </v>
 </v>
@@ -67,7 +70,8 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="leo.20170322110923.1"><vh>@edit 20170222.md</vh></v>
+<v t="leo.20170322110923.1"><vh>@edit 20170221.md</vh></v>
+<v t="leo.20170330041258.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170322110959.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170322111023.1"><vh>@edit 20170308.md</vh></v>
 <v t="leo.20170322111054.1"><vh>@edit 20170315.md</vh></v>
@@ -216,6 +220,25 @@
 &lt;iframe src="https://player.vimeo.com/video/210648133" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;small&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/210648133"&gt;組合單桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170330035313.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170330035313.2">### Week4 單連桿導入v-rep
+&lt;/small&gt;
+單連桿SolveSpace導入v-rep
+&lt;iframe src="https://player.vimeo.com/video/210661278" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;small&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210661278"&gt;單連桿導入v-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 <t tx="yen.20170108171605.1"></t>
