@@ -64,6 +64,14 @@
 <v t="leo.20170330035313.2"><vh>week4-3</vh></v>
 </v>
 </v>
+<v t="leo.20170330161906.1" a="E"><vh>week5</vh>
+<v t="leo.20170330161906.2" a="E"><vh>w5</vh>
+<v t="leo.20170330161906.3"><vh>week5-1</vh></v>
+</v>
+<v t="leo.20170330161906.4" a="E"><vh>w5</vh>
+<v t="leo.20170330161906.5"><vh>week5-2</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -240,6 +248,43 @@
 &lt;small&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/210661278"&gt;單連桿導入v-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
+</t>
+<t tx="leo.20170330161906.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170330161906.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170330161906.3">### Week5 單連桿V-rep轉動
+&lt;/small&gt;
+利用V-rep讓單桿機構轉動
+&lt;iframe src="https://player.vimeo.com/video/210731486" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;small&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210731486"&gt;單連桿V-rep轉動&lt;/a&gt; from &lt;a href="https://vimeo.com/user61278816"&gt;40423247&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170330161906.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170330161906.5">### Week5 四連桿V-rep轉動
+&lt;/small&gt;
+利用V-rep讓四桿機構轉動
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
