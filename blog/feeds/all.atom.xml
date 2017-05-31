@@ -157,6 +157,12 @@ n = 36
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
+
+ctx.beginPath()
+ctx.fillStyle = "   #2894FF"
+ctx.font = "30px ScriptS"
+ctx.fillText("40423247 ",340,300)
+ctx.stroke()
 &lt;/script&gt;</summary><category term="brython"></category><category term="w15"></category></entry><entry><title>20170419 期中自評</title><link href="./Week%208.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2017-04-19:./Week 8.html</id><summary type="html">&lt;h4&gt;上了半學期的協同課程，除了利用github、fossil，也學了會了v-rep的簡單用法，在下半學期我們將更進一步的讓更複雜的八桿機構可以模擬行走，而且還要用更多高階的工具，來使協同更方便更輕鬆，在這堂課中，你必須學習排解問題的能力，遇到問題時要自己嘗試去解決，我覺得這是很重要的一個環節，也希望我能有更多的機會，可以學到更多的東西。&lt;/h4&gt;</summary><category term="brython"></category><category term="w8"></category></entry><entry><title>20170405 第七週</title><link href="./Week%207.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2017-04-05:./Week 7.html</id><summary type="html">&lt;h3&gt;Fossil上傳方法&lt;/h3&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/214819129" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
